@@ -6,5 +6,5 @@
 - 🛡️ Cloud & Infrastructure: **OpenShift (OCP), Security & Networking, Observability**.
 - 🏀 Fun fact: Huge **NBA** fan, **Horology** enthusiast and **LEGO** builder.
 
-📫 **Bana Ulaşın:** https://www.linkedin.com/in/mehmet-ali-k%C3%B6ker-262746117/
+📫 **Reach me at:** https://www.linkedin.com/in/mehmet-ali-k%C3%B6ker-262746117/
 
