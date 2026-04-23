@@ -8,5 +8,5 @@
 
 **Reach me at:**
 - 💻 https://github.com/mehmetalikoker
-- 📬 mehmetalikoker@outlook.com
+- 📩 mehmetalikoker@outlook.com
 
