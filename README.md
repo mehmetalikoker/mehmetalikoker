@@ -6,5 +6,7 @@
 - 🛡️ Cloud & Infrastructure: **OpenShift (OCP), Security & Networking, Observability**.
 - 🏀 Fun fact: Huge **NBA** fan, **Horology** enthusiast and **Literature** aficionado.
 
-📫 **Reach me at:** https://www.linkedin.com/in/mehmet-ali-k%C3%B6ker-262746117/
+**Reach me at:**
+- 🧑‍💻 https://github.com/mehmetalikoker
+- 📸 https://www.instagram.com/mehmetalikoker
 
