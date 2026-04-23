@@ -7,6 +7,6 @@
 - 🏀 Fun fact: Huge **NBA** fan, **Horology** enthusiast and **Literature** aficionado.
 
 **Reach me at:**
-- 🧑‍💻 https://github.com/mehmetalikoker
-- 📸 https://www.instagram.com/mehmetalikoker
+- 💻 https://github.com/mehmetalikoker
+- 📬 mehmetalikoker@outlook.com
 
