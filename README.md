@@ -10,13 +10,8 @@
 - 💻 https://github.com/mehmetalikoker
 - 📩 mehmetalikoker@outlook.com
 
-<div align="center">
-  
-  <!-- En Çok Kullanılan Diller Kartı -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalikoker&layout=compact&theme=dracula&hide=html,css&border_radius=10" alt="Mehmet'in En Çok Kullandığı Diller" />
+# 📊 GitHub İstatistiklerim
 
-  <!-- Genel GitHub İstatistik Kartı -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetalikoker&show_icons=true&theme=dracula&count_private=true&border_radius=10" alt="Mehmet'in GitHub İstatistikleri" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalikoker&layout=compact&theme=dracula&hide=html,css)
 
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetalikoker&show_icons=true&theme=dracula&count_private=true)
