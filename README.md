@@ -10,8 +10,8 @@
 - 💻 https://github.com/mehmetalikoker
 - 📩 mehmetalikoker@outlook.com
 
-# 📊 GitHub İstatistiklerim
+# 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalikoker&layout=compact&theme=dracula&hide=html,css)
+![Mehmet's Stats](https://github-readme-stats.vercel.app/api?username=mehmetalikoker&show_icons=true&theme=dracula)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetalikoker&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats-stats.vercel.app/api/top-langs/?username=mehmetalikoker&layout=compact&theme=dracula)
